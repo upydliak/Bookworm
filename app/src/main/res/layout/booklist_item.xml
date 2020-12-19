@@ -6,6 +6,8 @@
     android:layout_height="wrap_content">
 
     <ImageView
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="12dp"
         android:id="@+id/bookCover"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -53,7 +55,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
         android:text="Book Type:"
-        app:layout_constraintEnd_toStartOf="bookPrice"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/bookCover" />
 

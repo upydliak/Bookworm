@@ -1,4 +1,4 @@
-package com.example.up.bookworm.ui.notifications
+package com.example.up.bookworm.ui.cart
 
 import android.os.Bundle
 import android.view.LayoutInflater

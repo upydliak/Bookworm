@@ -1,0 +1,52 @@
+[
+  {
+    "imageFile": "book01",
+    "title": "A Promised Land",
+    "author": "Barack Obama",
+    "type": "Hardcover",
+    "price": " $35.00",
+    "availableOnline":"true",
+    "availableInStore":"true",
+    "availableForPickUp":"true"
+  },
+  {
+    "imageFile": "book02",
+    "title": "Modern Comfort Food",
+    "author": "Ina Garten",
+    "type": "Hardcover",
+    "price": " $28.00",
+    "availableOnline":"true",
+    "availableInStore":"true",
+    "availableForPickUp":"true"
+  },
+  {
+    "imageFile": "book03",
+    "title": "Stories to Tell: A Memoir",
+    "author": "Richard Marx",
+    "type": "Hardcover",
+    "price": " $27.00",
+    "availableOnline":"true",
+    "availableInStore":"false",
+    "availableForPickUp":"false"
+  },
+  {
+    "imageFile": "book04",
+    "title": "The Answer Is...",
+    "author": "Alex Trebeck",
+    "type": "Hardcover",
+    "price": " $24.00",
+    "availableOnline":"true",
+    "availableInStore":"true",
+    "availableForPickUp":"true"
+  },
+  {
+    "imageFile": "book05",
+    "title": "A Time For Mercy",
+    "author": "John Grisham",
+    "type": "Hardcover",
+    "price": " $21.00",
+    "availableOnline":"true",
+    "availableInStore":"true",
+    "availableForPickUp":"true"
+  }
+]
